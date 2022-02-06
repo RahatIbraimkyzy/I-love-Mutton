@@ -1,0 +1,16 @@
+body {
+background-color:rgb(128, 98, 0);
+text-align: center;
+}
+.onion {
+border-color: black;
+border-style: inset;
+}
+.mutton {
+    border-color: black;
+    border-style: inset;
+}
+#heading {
+    color: darkgrey;
+    font-size: 150px;
+}
